@@ -3,7 +3,7 @@
 **`Desenvolvedor Back-End`**
 
 Me chamo Raian, tenho 20 anos e sou natural do Brasil. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Tenho grande interesse em desenvolvimento de software e estou sempre buscando aprender e evoluir na área.
-Atualmente, compartilho meu aprendizado e experiências com programação, banco de dados e projetos web, buscando ajudar outros desenvolvedores que também estão trilhando esse caminho. Meu foco está em tecnologias como Java, Spring Boot, MySQL, MongoDB e AWS, além de conceitos como Programação Orientada a Objetos e UML.
+Atualmente, compartilho meu aprendizado e experiências com programação, banco de dados e projetos web, buscando ajudar outros desenvolvedores que também estão trilhando esse caminho. Meu foco está em tecnologias como Java, Spring Boot, MySQL e AWS, além de conceitos como Programação Orientada a Objetos e UML.
 
 
 
