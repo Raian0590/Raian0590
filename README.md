@@ -91,7 +91,7 @@ Atualmente, compartilho meu aprendizado e experiências com programação, banco
 
 <img 
   alt="Top Langs"
-  height="200"
+  height="150"
   align="left"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raian0590&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5"
 />
